@@ -13,3 +13,6 @@ DDOS - Script for "Рашен Парашен" / Written On Python
 Зависимости :
  
  1. Требуется установленный Python Ссылка : https://www.python.org/
+ 2. Открыть CMD и прописать : 
+     1. pip install requests 
+     2. pip install threading
